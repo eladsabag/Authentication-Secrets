@@ -5,7 +5,7 @@ Tools used - HTML, CSS, JavaScript, Bootstrap, jQuery, Node, Express, EJS.
 
 The main page display a login/register page:
 
-![2022-04-10 (4)](https://user-images.githubusercontent.com/68230346/162617533-b8a2fe34-1084-4cf0-b1b5-52511590ab0b.png)
+![image](https://user-images.githubusercontent.com/68230346/162617876-3e13f798-fd70-42ac-817f-e66780c593f9.png)
 
 Clicking on register/login will lead you to this to options:
 Register:
